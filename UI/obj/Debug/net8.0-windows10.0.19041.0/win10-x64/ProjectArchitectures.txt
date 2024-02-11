@@ -1,0 +1,1 @@
+C:\Users\WorkHome\source\repos\csharp-cards\UI\UI.csproj;x64
